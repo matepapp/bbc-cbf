@@ -301,6 +301,7 @@
 				09199A1E1EA57541005FE65F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
